@@ -10,7 +10,7 @@ It checks availability at preset intervals and sends an email notification when 
 pip install -r requirements.txt
 ```
 ### 2. Create a .env file with your email credentials:
-⚠️ For Gmail, enable App Passwords ([Guide](https://support.google.com/mail/answer/185833?hl=en)).
+For Gmail, enable App Passwords ([Guide](https://support.google.com/mail/answer/185833?hl=en)).
 ```bash
 EMAIL_SENDER=sender@gmail.com
 EMAIL_PASSWORD=app_password
